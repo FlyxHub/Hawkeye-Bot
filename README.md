@@ -7,16 +7,16 @@ but with minor tweaks the code will work for any bot in any server.
 Hawkeye features the following commands and functionality:
 
 ### Purge (Number)
-Deletes specified number of messages from the channel
-Usable by those with `manage_messages` permission
+Deletes specified number of messages from the channel.
+Usable by those with `manage_messages` permission.
 
 ### Kick (User, Reason)
-Kicks specified user from server with specified reason
-Usable by those with `kick_members` permission
+Kicks specified user from server with specified reason.
+Usable by those with `kick_members` permission.
 
 ### Ban (User, Reason)
-Bans specified user from server with specified reason
-Usable by those with `ban_members` permission
+Bans specified user from server with specified reason.
+Usable by those with `ban_members` permission.
 
 ### Invite Listener
 Hawkeye also listens for any message containing a Discord server invite.
